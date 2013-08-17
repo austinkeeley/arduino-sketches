@@ -10,4 +10,7 @@ The Hello World of Arduino.  Blinks the LED on the Arduino.
 ### LED Wave
 LEDs lighting up in a sequence.  This one is the first to require resistors and a breadboard and to actually wire something together.
 
+### Pulse-Width Modulation
+Using analogWrite to do PWM.
+
 
